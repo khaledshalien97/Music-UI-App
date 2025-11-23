@@ -7,13 +7,13 @@ A sleek music discovery app built with Flutter, featuring curated playlists, smo
 ## Screenshots
 
 <p float="left">
-  <img src="asset/screenshot/music_app_1" width="250" />
+  <img src="asset/screenshot/music_app_1.png" width="250" />
 
-  <img src="asset/screenshot/music_app_2" width="250" />
+  <img src="asset/screenshot/music_app_2.png" width="250" />
 
-  <img src="asset/screenshot/music_app_3" width="250" />
+  <img src="asset/screenshot/music_app_3.png" width="250" />
 
- <img src="asset/screenshot/music_app_4" width="250" />
+ <img src="asset/screenshot/music_app_4.png" width="250" />
 
-  <img src="asset/screenshot/music_app_5" width="250" />
+  <img src="asset/screenshot/music_app_5.png" width="250" />
 </p>
