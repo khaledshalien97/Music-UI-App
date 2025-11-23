@@ -32,6 +32,7 @@ flutter:
 
   assets:
     - asset/svg_images/
+    - asset/screenshot/
     - asset/images/fresh_drops/
     - asset/images/hidden_gems/
     - asset/images/similar_tracks/
