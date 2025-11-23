@@ -1,0 +1,39 @@
+name: music_app_ui_1
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.3.2
+  flutter_svg: ^2.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^5.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - asset/svg_images/
+    - asset/images/fresh_drops/
+    - asset/images/hidden_gems/
+    - asset/images/similar_tracks/
+    - asset/images/top_picks/
+    - asset/images/trending_now/
