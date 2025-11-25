@@ -19,10 +19,10 @@ Container musicInfo() {
 Row _rowInfo(String icon, String title) {
   return Row(
     children: [
-      SvgPicture.asset("asset/svg_images/headphone.svg"),
+      SvgPicture.asset(icon),
       SizedBox(width: 7),
       commonTextWidget(
-        text: "2.5 plays",
+        text: title,
         color: Color(0xffCFCFCF),
         fontWeight: FontWeight.w400,
         fontSize: 14,
